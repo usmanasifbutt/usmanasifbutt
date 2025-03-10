@@ -13,9 +13,6 @@ Currently, I’m working at **Dubbizelabs Lahore** on the **OLX Pakistan**.
 -   ☁️ **Cloud:** AWS (EC2, Lambda, S3, RDS), CloudAMQP 
 -   🔄 **CI/CD:** Docker, Bitbucket Pipelines
 
-### 🚀 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=usmanasifbutt&theme=radical)
-
 ### 📫 How to Reach Me
 
 -   **Email:** usman.asif2208@gmail.com
