@@ -1,7 +1,7 @@
 
 ## 👋 Hi there!
 
-I'm **Usman Asif**, a **Software Engineer** with **3 years of experience** and a Bachelor's degree in **Computer Science**. I specialize in building both **frontend** and **backend** applications, and I have hands-on experience with multiple **cloud services** like **AWS (EC2, Lambda, CloudAMQP)**.  
+I'm **Usman Asif**, a **Software Engineer** with **3 years of experience** and a Bachelor's degree in **Computer Science**. I specialize in building both **backend** and **frontend** applications, and I have hands-on experience with multiple **cloud services** like **AWS (Amplify, Lambda, RDS, S3), CloudAMQP**.  
 Currently, I’m working at **Dubizzle Labs** on the **OLX Pakistan**.
 
 ### 🛠 Tech Stack
@@ -9,8 +9,8 @@ Currently, I’m working at **Dubizzle Labs** on the **OLX Pakistan**.
 -   💻 **Languages:** Python, JavaScript, TypeScript
 -   🌐 **Frontend:** React.js, Next.js, Vue.js
 -   ⚙️ **Backend:** Django, FastAPI, Node.js
--   🛢 **Databases:** PostgreSQL, MongoDB, Elasticsearch
--   ☁️ **Cloud:** AWS (EC2, Lambda, S3, RDS), CloudAMQP 
+-   🛢 **Databases:** PostgreSQL, MongoDB, Elasticsearch, Algolia
+-   ☁️ **Cloud:** AWS (Lambda, S3, RDS, EC2), CloudAMQP 
 -   🔄 **CI/CD:** Docker, Bitbucket Pipelines
 
 ### 📫 How to Reach Me
