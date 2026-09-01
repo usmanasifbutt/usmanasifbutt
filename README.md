@@ -1,15 +1,17 @@
 
 ## 👋 Hi there!
 
-I'm **Usman Asif**, a **Software Engineer** with **3 years of experience** and a Bachelor's degree in **Computer Science**. I specialize in building both **backend** and **frontend** applications, and I have hands-on experience with multiple **cloud services** like **AWS (Amplify, Lambda, RDS, S3), CloudAMQP**.  
-Currently, I’m working at **Dubizzle Labs** on the **OLX Pakistan**.
+I'm **Usman Asif**, a **Software Engineer** with 4 years of experience and a Bachelor's degree in **Computer Science**. I specialize in building backend, frontend, and AI/ML applications, with hands-on experience across cloud services, MLOps, and AI/ML workflows.
+
+Currently, I’m working at **10Pearls** as a **Senior Software Consultant**.
 
 ### 🛠 Tech Stack
 
--   💻 **Languages:** Python, JavaScript, TypeScript
+-   💻 **Languages:** Python, JavaScript
 -   🌐 **Frontend:** React.js, Next.js, Vue.js
 -   ⚙️ **Backend:** Django, FastAPI, Node.js
--   🛢 **Databases:** PostgreSQL, MongoDB, Elasticsearch, Algolia
+-   🤖 **AI/ML:** AI/ML Workflows, MLOps
+-   🛢 **Databases:** PostgreSQL, MongoDB, Elasticsearch, Algolia, Vector Databases
 -   ☁️ **Cloud:** AWS (Lambda, S3, RDS, EC2), CloudAMQP 
 -   🔄 **CI/CD:** Docker, Bitbucket Pipelines
 
@@ -18,3 +20,6 @@ Currently, I’m working at **Dubizzle Labs** on the **OLX Pakistan**.
 -   **Email:** usman.asif2208@gmail.com
 -   **Phone:** +923416415458
 -   **LinkedIn:** [Usman Asif](https://www.linkedin.com/in/usman-asif-ua2208/)
+
+### 📊 Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/usmanasifbutt?theme=dark&font=Overpass%20Mono&ext=heatmap)
