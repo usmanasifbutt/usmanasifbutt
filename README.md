@@ -22,4 +22,4 @@ Currently, I’m working at **10Pearls** as a **Senior Software Consultant**.
 -   **LinkedIn:** [Usman Asif](https://www.linkedin.com/in/usman-asif-ua2208/)
 
 ### 📊 Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/usmanasifbutt?theme=dark&font=Overpass%20Mono&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/usmanasifbutt?theme=dark&font=Overpass%20Mono&show_rank=false)
