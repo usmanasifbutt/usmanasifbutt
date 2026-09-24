@@ -21,5 +21,5 @@ Currently, I’m working at **10Pearls** as a **Senior Software Consultant**.
 -   **Phone:** +923416415458
 -   **LinkedIn:** [Usman Asif](https://www.linkedin.com/in/usmanasifbutt/)
 
-### 📊 Stats
+### 📊 Stats &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=usmanasifbutt)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/usmanasifbutt?theme=dark&font=Overpass%20Mono&show_rank=false)
