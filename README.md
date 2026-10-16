@@ -5,6 +5,8 @@ I'm **Usman Asif**, a **Software Engineer** with 4 years of experience and a Bac
 
 Currently, I’m working at **10Pearls** as a **Senior Software Consultant**.
 
+🌐 Check out my portfolio: **[usmanasifbutt.github.io](https://usmanasifbutt.github.io/)**
+
 ### 🛠 Tech Stack
 
 -   💻 **Languages:** Python, JavaScript
@@ -17,6 +19,7 @@ Currently, I’m working at **10Pearls** as a **Senior Software Consultant**.
 
 ### 📫 How to Reach Me
 
+-   **Portfolio:** [usmanasifbutt.github.io](https://usmanasifbutt.github.io/)
 -   **Email:** usman.asif2208@gmail.com
 -   **Phone:** +923416415458
 -   **LinkedIn:** [Usman Asif](https://www.linkedin.com/in/usmanasifbutt/)
